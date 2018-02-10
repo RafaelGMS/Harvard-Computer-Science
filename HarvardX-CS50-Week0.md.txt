@@ -1,0 +1,17 @@
+ 4.1 - CS is about what?
+R: CS is about science computer, with study the delevopment of the digital processing
+
+ 4.2 - Explain how binary works, give examples.
+R: It's the system used by computers to run actions.
+
+11000 = 1x24 + 1x23 + 0x22 + 0x21 + 0x20 = 1x16 + 1x8 + 0x4 + 0x2 + 0x1 = 24 (in decimal). 
+ 4.3 - Using what you learn try to create on algorithm (use english) to search for a random number between 0 and 100 in the fast way that you can.
+R: 	82/2 = 41, rest = 0
+	41/2 = 20, rest = 1
+	20/2 = 10, rest = 0
+	10/2 = 5, rest = 0
+	5/2 = 2, rest = 1
+	2/2 = 1, rest = 0
+	1/2 = 0, rest = 1
+
+under to the top = 1010010
