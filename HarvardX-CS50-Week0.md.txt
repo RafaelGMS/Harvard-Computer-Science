@@ -1,8 +1,8 @@
  4.1 - CS is about what?
-R: CS is about science computer, with study the delevopment of the digital processing
+R: CS is this field that enables you to go make it more interesting, more powerful,you can solve, problems better, more efficiently, how you can solve them correctly,and how you can analyze large datasets or solve problems that might otherwise be beyond reach.
 
  4.2 - Explain how binary works, give examples.
-R: It's the system used by computers to run actions.
+R: It's a system with 2 digit numbering system, used by computers to run actions. Like when you press a key, the computer recived in the binary code.
 
 11000 = 1x24 + 1x23 + 0x22 + 0x21 + 0x20 = 1x16 + 1x8 + 0x4 + 0x2 + 0x1 = 24 (in decimal). 
  4.3 - Using what you learn try to create on algorithm (use english) to search for a random number between 0 and 100 in the fast way that you can.
